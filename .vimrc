@@ -118,7 +118,6 @@ map <leader>l :set list!<CR> " Toggle tabs and EOL
 "*****************************************************************************
 Plugin 'scrooloose/nerdtree'
 Plugin 'scrooloose/nerdcommenter'
-Plugin 'bash-support.vim'
 Plugin 'plasticboy/vim-markdown'
 Plugin 'bash-support.vim'
 
