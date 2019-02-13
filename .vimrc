@@ -48,7 +48,10 @@ set ruler
 set visualbell
 set cursorline  " Highlight current line
 set relativenumber
-
+set mousemodel=popup
+set t_Co=256
+set guioptions=egmrti
+set gfn=Monospace\ 10
 
 " Encoding
 set encoding=utf-8
