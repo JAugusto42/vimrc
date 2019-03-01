@@ -135,6 +135,10 @@ Plugin 'tpope/vim-projectionist'
 Plugin 'thoughtbot/vim-rspec'
 Plugin 'ecomba/vim-ruby-refactoring'
 
+"" Python
+Plugin 'python-mode/python-mode'
+Plugin 'davidhalter/jedi'
+
 "" Perl
 Plugin 'vim-perl/vim-perl'
 Plugin 'c9s/perlomni.vim'
