@@ -143,14 +143,11 @@ Plugin 'davidhalter/jedi'
 Plugin 'vim-perl/vim-perl'
 Plugin 'c9s/perlomni.vim'
 
-" ocaml
-Plugin 'def-lkb/ocp-indent-vim'
-
 " Color scheme (terminal)
-Plugin 'morhetz/gruvbox'
-colorscheme gruvbox
+Plugin 'altercation/vim-colors-solarized'
 set background=dark
-let g:gruvbox_contrast_dark = 'hard'
+let g:solarized_termcolors=256
+colorscheme solarized
 
 "*****************************************************************************
 "" Custom configs
