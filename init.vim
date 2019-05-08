@@ -123,6 +123,7 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'plasticboy/vim-markdown'
 Plugin 'bash-support.vim'
+Plugin 'neoclide/coc.nvim'
 
 "" Ruby
 Plugin 'tpope/vim-rails'
