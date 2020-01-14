@@ -123,7 +123,8 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'plasticboy/vim-markdown'
 Plugin 'bash-support.vim'
-Plugin 'neoclide/coc.nvim'
+Plugin 'valloric/youcompleteme'
+Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
 
 "" Ruby
 Plugin 'tpope/vim-rails'
@@ -139,6 +140,7 @@ Plugin 'ecomba/vim-ruby-refactoring'
 "" Python
 Plugin 'python-mode/python-mode'
 Plugin 'davidhalter/jedi'
+Plugin 'nvie/vim-flake8'
 
 "" Perl
 Plugin 'vim-perl/vim-perl'
@@ -172,3 +174,6 @@ let g:UltiSnipsJumpBackwardTrigger="<c-z>"
 
 " identguide
 let g:indentLine_char = '┆'
+
+let python_highlight_all=1
+let g:ycm_use_clangd = 0
