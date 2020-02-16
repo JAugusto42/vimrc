@@ -16,9 +16,8 @@ function main() {
   fi
 
   echo "Installing vimrc..."
-  mkdir -p /home/$USER/.config/nvim/
-  cp init.vim /home/$USER/.config/nvim/
-  nvim +PluginInstall +qall
+  cp .vimrc /home/$USER/.vimrc
+  vim +PluginInstall +qall
   clear
   echo "DONE"
 }
