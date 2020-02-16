@@ -141,10 +141,7 @@ Plugin 'ecomba/vim-ruby-refactoring'
 Plugin 'python-mode/python-mode'
 Plugin 'davidhalter/jedi'
 Plugin 'nvie/vim-flake8'
-
-"" Perl
-Plugin 'vim-perl/vim-perl'
-Plugin 'c9s/perlomni.vim'
+Plugin 'jmcantrell/vim-virtualenv'
 
 " Color scheme (terminal)
 Plugin 'altercation/vim-colors-solarized'
