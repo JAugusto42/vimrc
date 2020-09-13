@@ -123,7 +123,6 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'plasticboy/vim-markdown'
 Plugin 'bash-support.vim'
-Plugin 'valloric/youcompleteme'
 Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
 
 "" Ruby
@@ -136,12 +135,6 @@ Plugin 'tpope/vim-rake'
 Plugin 'tpope/vim-projectionist'
 Plugin 'thoughtbot/vim-rspec'
 Plugin 'ecomba/vim-ruby-refactoring'
-
-"" Python
-Plugin 'python-mode/python-mode'
-Plugin 'davidhalter/jedi'
-Plugin 'nvie/vim-flake8'
-Plugin 'jmcantrell/vim-virtualenv'
 
 " Color scheme (terminal)
 Plugin 'altercation/vim-colors-solarized'
