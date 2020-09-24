@@ -164,6 +164,3 @@ let g:UltiSnipsJumpBackwardTrigger="<c-z>"
 
 " identguide
 let g:indentLine_char = '┆'
-
-let python_highlight_all=1
-let g:ycm_use_clangd = 0
