@@ -124,6 +124,7 @@ Plugin 'scrooloose/nerdcommenter'
 Plugin 'plasticboy/vim-markdown'
 Plugin 'bash-support.vim'
 Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
+Plugin 'neoclide/coc.nvim', {'branch': 'release'}
 
 "" Ruby
 Plugin 'tpope/vim-rails'
